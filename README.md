@@ -6,4 +6,4 @@ Updates made on master on GitHub before rebase
 
 ## Repository Purpose
 
-Conflicting changes made on the remote side.
+This file is just a readme file.
